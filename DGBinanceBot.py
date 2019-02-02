@@ -50,7 +50,7 @@ def main():
     print(eos_ticker)
     print(eos_ticker['lastPrice'])
     
-    print('end adadssf')
+    print('end addfdadssf')
     
     
 if __name__ == "__main__":
